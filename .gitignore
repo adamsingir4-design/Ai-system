@@ -1,5 +1,15 @@
-# Ignore local env and vendored dependencies
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.vite/
 .env
-.env.local
-node_modules
-.vite
+.env.*
+!.env.example
+data/*
+!data/.gitkeep
+launcher/support-desk.ico

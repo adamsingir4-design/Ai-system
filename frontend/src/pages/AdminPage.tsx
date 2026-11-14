@@ -1,0 +1,1 @@
+export default function AdminPage() { return <section className="page"><p className="eyebrow">ADMINISTRATION</p><h1>System management</h1><div className="notice">Administrator statistics and article management require authenticated admin API endpoints. This starter view does not display fabricated counts.</div></section> }

@@ -1,0 +1,1 @@
+export default function HistoryPage() { return <section className="page"><p className="eyebrow">YOUR ACTIVITY</p><h1>Troubleshooting history</h1><div className="empty"><span>◷</span><h2>No saved sessions yet</h2><p>After session storage and user accounts are enabled, completed sessions will be listed here.</p></div></section> }
