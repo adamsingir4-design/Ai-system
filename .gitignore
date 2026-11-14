@@ -1,0 +1,5 @@
+# Ignore local env and vendored dependencies
+.env
+.env.local
+node_modules
+.vite
